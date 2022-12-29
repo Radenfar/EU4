@@ -2,8 +2,6 @@ import pyautogui as pag
 import time
 import pandas as pd
 df = pd.read_csv('eu4_prov.csv', encoding='latin-1')
-import win32api
-import win32con
 
 
 def command(command, id):

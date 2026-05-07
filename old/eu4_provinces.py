@@ -2,8 +2,10 @@ import pyautogui as pag
 import time
 import pandas as pd
 import json
+import os 
 
-df = pd.read_csv(r'C:\Users\adamc\Documents\Programming\Python\eu4\eu4_prov.csv', encoding='latin-1')
+filepath_: str = os.path.join(os.path.dirname(__file__), 'eu4_prov.csv')
+df = pd.read_csv(filepath_, encoding='latin-1')
 
 def command(command, id):
     pag.write(command + ' ' + id)

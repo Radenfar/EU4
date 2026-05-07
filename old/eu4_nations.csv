@@ -1,0 +1,965 @@
+ID,Name,Tag,Region,Type
+4,Sweden,SWE,Scandinavia,
+5,Denmark,DAN,Scandinavia,
+6,Finland,FIN,Scandinavia,Releasable
+7,Gotland,GOT,Scandinavia,
+8,Norway,NOR,Scandinavia,
+9,Holstein,SHL,Scandinavia,
+10,Scandinavia,SCA,Scandinavia,Formable
+11,Estonia,EST,Scandinavia,Releasable
+12,Livonia,LVA,Scandinavia,Releasable
+13,Latgalia,LTG,Scandinavia,Releasable
+14,Sápmi,SMI,Scandinavia,Revolter
+15,Karelia,KRL,Scandinavia,Revolter
+16,Iceland,ICE,Scandinavia,Formable / Releasable
+17,Achaea,ACH,Balkans,Releasable
+18,Albania,ALB,Balkans,
+19,Athens,ATH,Balkans,
+20,Bosnia,BOS,Balkans,
+21,Bulgaria,BUL,Balkans,Formable / Releasable
+22,Byzantium,BYZ,Balkans,Formable (exists in 1444)
+23,Corfu,CEP,Balkans,Releasable
+24,Croatia,CRO,Balkans,Formable (exists in 1444)
+25,Crete,CRT,Balkans,Releasable
+26,Cyprus,CYP,Asia Minor,
+27,Dalmatia,DAL,Balkans,Formable / Releasable
+28,Epirus,EPI,Balkans,
+29,Greece,GRE,Balkans,Formable
+30,The Knights,KNI,Asia Minor,
+31,Morea,MOE,Balkans,Releasable
+32,Moldavia,MOL,Balkans,
+33,Montenegro,MON,Balkans,Releasable
+34,Naxos,NAX,Balkans,
+35,Ragusa,RAG,Balkans,
+36,Romania,RMN,Balkans,Formable
+37,Serbia,SER,Balkans,
+38,Transylvania,TRA,Balkans,Releasable / Appears by event
+39,Wallachia,WAL,Balkans,
+40,Hungary,HUN,Balkans,
+41,Nitra,SLO,Balkans,Releasable
+42,Ottomans,TUR,Asia Minor,
+43,Clanricarde,CNN,British Isles,
+44,Cornwall,CRN,British Isles,Releasable
+45,England,ENG,British Isles,Formable (exists in 1444)
+46,Leinster,LEI,British Isles,
+47,Ireland,IRE,British Isles,Formable
+48,Thomond,MNS,British Isles,
+49,Scotland,SCO,British Isles,Formable (exists in 1444)
+50,Tyrone,TYR,British Isles,
+51,Wales,WLS,British Isles,Releasable
+52,Northumberland,NOL,British Isles,Releasable
+53,Great Britain,GBR,British Isles,Formable
+54,Meath,MTH,British Isles,Releasable
+55,Ulster,ULS,British Isles,
+56,Desmond,DMS,British Isles,
+57,Sligo,SLN,British Isles,
+58,Kildare,KID,British Isles,
+59,Gaeldom,HSC,British Isles,Releasable
+60,Ormond,ORD,British Isles,
+61,Tyrconnell,TRY,British Isles,
+62,Offaly,FLY,British Isles,
+63,Munster,MCM,British Isles,
+64,Mann,KOI,British Isles,Releasable
+65,The Isles,LOI,British Isles,
+66,Brazil,BRZ,Colonies,Formable
+67,Canada,CAN,Colonies,Formable
+68,Chile,CHL,Colonies,Formable
+69,Colombia,COL,Colonies,Formable
+70,Haiti,HAT,Colonies,Formable
+71,La Plata,LAP,Colonies,Formable
+72,Louisiana,LOU,Colonies,Formable
+73,Mexico,MEX,Colonies,Formable
+74,Peru,PEU,Colonies,Formable
+75,Paraguay,PRG,Colonies,Formable
+76,Quebec,QUE,Colonies,Formable
+77,United Central America,CAM,Colonies,Formable
+78,United States,USA,Colonies,Formable
+79,Venezuela,VNZ,Colonies,Formable
+80,Australia,AUS,Colonies,Formable
+81,California,CAL,Colonies,Formable
+82,Texas,TEX,Colonies,Formable
+83,Cascadia,CSC,Colonies,Formable
+84,Alaska,ALA,Colonies,Formable
+85,Zealandia,NZL,Colonies,Formable
+86,Illinois,ILI,Colonies,Formable
+87,Florida,FLO,Colonies,Formable
+88,Vermont,VRM,Colonies,Formable
+89,Sonora,SNA,Colonies,Formable
+90,West Indies,WSI,Colonies,Formable
+91,Cuba,CUB,Colonies,Formable
+92,Danzig,DNZ,Eastern Europe,Releasable / Appears by event
+93,Krakow,KRA,Eastern Europe,Releasable
+94,Lithuania,LIT,Eastern Europe,
+95,Livonian Order,LIV,Eastern Europe,
+96,Mazovia,MAZ,Eastern Europe,
+97,Poland,POL,Eastern Europe,Formable (exists in 1444)
+98,Prussia,PRU,Eastern Europe,Formable
+99,Kurland,KUR,Eastern Europe,Formable
+100,Riga,RIG,Eastern Europe,
+101,Teutonic Order,TEU,Eastern Europe,
+102,Commonwealth,PLC,Eastern Europe,Formable
+103,Galicia–Volhynia,VOL,Eastern Europe,Releasable
+104,Kiev,KIE,Eastern Europe,Releasable
+105,Chernigov,CHR,Eastern Europe,Releasable
+106,Odoyev,OKA,Eastern Europe,
+107,Alençon,ALE,France,Releasable
+108,Strasbourg,ALS,Germany,
+109,Armagnac,AMG,France,
+110,Auvergne,AUV,France,
+111,Avignon,AVI,France,Releasable
+112,Bourbonnais,BOU,France,
+113,Brittany,BRI,France,
+114,Burgundy,BUR,France,
+115,Champagne,CHP,France,Releasable
+116,Corsica,COR,Italy,Releasable
+117,Dauphine,DAU,France,Releasable
+118,Foix,FOI,France,
+119,France,FRA,France,Formable (exists in 1444)
+120,Gascony,GUY,France,Releasable
+121,Nevers,NEV,France,
+122,Normandy,NRM,France,Releasable
+123,Orleans,ORL,France,
+124,Picardy,PIC,France,Releasable
+125,Provence,PRO,France,
+126,Sardinia-Piedmont,SPI,Italy,Formable
+127,Toulouse,TOU,France,Releasable
+128,Berry,BER,France,Releasable
+129,Aachen,AAC,Germany,
+130,Anhalt,ANH,Germany,
+131,Ansbach,ANS,Germany,
+132,Augsburg,AUG,Germany,
+133,Baden,BAD,Germany,
+134,Bavaria,BAV,Germany,Formable
+135,Bohemia,BOH,Eastern Europe,
+136,Brandenburg,BRA,Germany,
+137,Bremen,BRE,Germany,
+138,Brunswick,BRU,Germany,
+139,East Frisia,EFR,Germany,
+140,Frankfurt,FRN,Germany,
+141,Germany,GER,Germany,Formable
+142,Austria,HAB,Germany,Formable (exists in 1444)
+143,Hamburg,HAM,Germany,
+144,Hanover,HAN,Germany,Formable
+145,Hesse,HES,Germany,
+146,Holy Roman Empire,HLR,Germany,Formable
+147,Cleves,KLE,Germany,
+148,Cologne,KOL,Germany,
+149,Saxe-Lauenburg,LAU,Germany,
+150,Lorraine,LOR,France,
+151,Lüneburg,LUN,Germany,
+152,Magdeburg,MAG,Germany,
+153,Mainz,MAI,Germany,
+154,Meissen,MEI,Germany,Revolter
+155,Mecklenburg,MKL,Germany,
+156,Münster,MUN,Germany,
+157,Moravia,MVA,Eastern Europe,Releasable
+158,Oldenburg,OLD,Germany,
+159,The Palatinate,PAL,Germany,
+160,Pomerania,POM,Germany,Formable
+161,Saxony,SAX,Germany,Formable (exists in 1444)
+162,Silesia,SIL,Eastern Europe,Formable
+163,Salzburg,SLZ,Germany,
+164,Styria,STY,Germany,Releasable
+165,Switzerland,SWI,Germany,Formable (exists in 1444)
+166,Thuringia,THU,Germany,
+167,Tirol,TIR,Germany,Releasable
+168,Trier,TRI,Germany,
+169,Ulm,ULM,Germany,
+170,Wurzburg,WBG,Germany,
+171,Westphalia,WES,Germany,Formable
+172,Wurttemberg,WUR,Germany,
+173,Nuremberg,NUM,Germany,
+174,Memmingen,MEM,Germany,
+175,Verden,VER,Germany,
+176,Nassau,NSA,Germany,
+177,Dortmund,RVA,Germany,
+178,Dithmarschen,DTT,Germany,
+179,Aragon,ARA,Iberia,
+180,Castile,CAS,Iberia,
+181,Catalonia,CAT,Iberia,Releasable
+182,Granada,GRA,Iberia,
+183,Navarra,NAV,Iberia,
+184,Portugal,POR,Iberia,
+185,Spain,SPA,Iberia,Formable
+186,Galicia,GAL,Iberia,Releasable
+187,León,LON,Iberia,Releasable
+188,Andalusia,ADU,Iberia,Formable
+189,Valencia,VAL,Iberia,Releasable
+190,Asturias,ASU,Iberia,Releasable
+191,Majorca,MJO,Iberia,Releasable
+192,Aquileia,AQU,Italy,Releasable
+193,Etruria,ETR,Italy,Revolter
+194,Ferrara,FER,Italy,
+195,Genoa,GEN,Italy,
+196,Italy,ITA,Italy,Formable
+197,Mantua,MAN,Italy,
+198,Milan,MLO,Italy,
+199,Modena,MOD,Italy,Releasable
+200,Naples,NAP,Italy,
+201,The Papal State,PAP,Italy,
+202,Parma,PAR,Italy,Releasable
+203,Pisa,PIS,Italy,Releasable
+204,Sardinia,SAR,Italy,Releasable
+205,Savoy,SAV,Italy,
+206,Sicily,SIC,Italy,Releasable
+207,Siena,SIE,Italy,
+208,Tuscany,TUS,Italy,Formable
+209,Urbino,URB,Italy,
+210,Venice,VEN,Italy,
+211,Montferrat,MFA,Italy,
+212,Lucca,LUC,Italy,
+213,Florence,LAN,Italy,
+214,Malta,JAI,Italy,Revolter
+215,Brabant,BRB,Low Countries,
+216,Flanders,FLA,Low Countries,
+217,Friesland,FRI,Low Countries,
+218,Gelre,GEL,Low Countries,
+219,Hainaut,HAI,Low Countries,Releasable
+220,Holland,HOL,Low Countries,
+221,Liege,LIE,Low Countries,
+222,Luxembourg,LUX,Low Countries,Releasable
+223,Netherlands,NED,Low Countries,Formable / Appears by event
+224,Utrecht,UTR,Low Countries,
+225,Armenia,ARM,Caucasia,Formable / Releasable
+226,Astrakhan,AST,Caucasia,Releasable
+227,Crimea,CRI,Eastern Europe,
+228,Georgia,GEO,Caucasia,Formable (exists in 1444)
+229,Kazan,KAZ,Russia,
+230,Muscovy,MOS,Russia,
+231,Novgorod,NOV,Russia,
+232,Pskov,PSK,Russia,
+233,Qasim,QAS,Russia,Releasable
+234,Russia,RUS,Russia,Formable
+235,Ryazan,RYA,Russia,
+236,Tver,TVE,Russia,
+237,Ruthenia,UKR,Eastern Europe,Formable
+238,Yaroslavl,YAR,Russia,
+239,Zaporozhie,ZAZ,Eastern Europe,Releasable
+240,Nogai,NOG,Central Asia,
+241,Sibir,SIB,Russia,Releasable
+242,Polotsk,PLT,Eastern Europe,Releasable
+243,Perm,PRM,Russia,
+244,Theodoro,FEO,Eastern Europe,
+245,Bashkiria,BSH,Russia,Releasable
+246,Beloozero,BLO,Russia,
+247,Rostov,RSO,Russia,
+248,Great Horde,GOL,Russia,
+249,Golden Horde,GLH,Russia,Formable
+250,Aden,ADE,Arabia,
+251,Haasa,ALH,Arabia,
+252,Anizah,ANZ,Arabia,
+253,Arabia,ARB,Arabia,Formable
+254,Ardalan,ARD,Arabia,
+255,Soran,BHT,Arabia,Releasable
+256,Dawasir,DAW,Arabia,
+257,Eretna,ERE,Arabia,Releasable
+258,Fadl,FAD,Arabia,
+259,Germiyan,GRM,Asia Minor,Releasable
+260,Hadramut,HDR,Arabia,
+261,Hejaz,HED,Arabia,
+262,Lebanon,LEB,Arabia,Releasable
+263,Makuria,MAK,Arabia,
+264,Medina,MDA,Arabia,
+265,Mikhlaf,MFL,Arabia,
+266,Mahra,MHR,Arabia,
+267,Najd,NAJ,Arabia,
+268,Najran,NJR,Arabia,
+269,Oman,OMA,Arabia,
+270,Rassids,RAS,Arabia,
+271,Shammar,SHM,Arabia,
+272,Sharjah,SHR,Arabia,Releasable
+273,Shirvan,SRV,Arabia,
+274,Yas,YAS,Arabia,
+275,Yemen,YEM,Arabia,Formable (exists in 1444)
+276,Hisn Kayfa,HSN,Arabia,
+277,Bitlis,BTL,Arabia,
+278,Aq Qoyunlu,AKK,Asia Minor,
+279,Aydin,AYD,Asia Minor,Releasable
+280,Candar,CND,Asia Minor,
+281,Dulkadir,DUL,Asia Minor,
+282,Iraq,IRQ,Asia Minor,Releasable
+283,Karaman,KAR,Asia Minor,
+284,Syria,SYR,Middle East,Releasable
+285,Trebizond,TRE,Asia Minor,
+286,Saruhan,SRU,Asia Minor,Releasable
+287,Mentese,MEN,Asia Minor,Releasable
+288,Ramazan,RAM,Asia Minor,
+289,Avaria,AVR,Asia Minor,
+290,Karabakh,MLK,Asia Minor,
+291,Samtskhe,SME,Asia Minor,
+292,Ardabil,ARL,Asia Minor,
+293,Mushasha,MSY,Asia Minor,
+294,Rûm,RUM,Asia Minor,Formable
+295,Algiers,ALG,Maghreb,Formable / Releasable
+296,Fez,FEZ,Maghreb,Releasable
+297,Mamluks,MAM,Middle East,Formable (exists in 1444)
+298,Morocco,MOR,Maghreb,Formable (exists in 1444)
+299,Tripoli,TRP,Maghreb,Formable / Releasable
+300,Tunis,TUN,Maghreb,Formable (exists in 1444)
+301,Egypt,EGY,Middle East,Formable
+302,Kabylia,KBA,Maghreb,Releasable
+303,Tafilalt,TFL,Maghreb,
+304,Sus,SOS,Maghreb,
+305,Tlemcen,TLC,Maghreb,
+306,Touggourt,TGT,Maghreb,
+307,Djerid,GHD,Maghreb,
+308,Fezzan,FZA,Maghreb,
+309,Mzab,MZB,Maghreb,
+310,Salé,SLE,Maghreb,Appears by event
+311,Tétouan,TET,Maghreb,Releasable / Appears by event
+312,Marrakesh,MRK,Maghreb,
+313,Kazakh,KZH,Central Asia,Releasable
+314,Khiva,KHI,Central Asia,Releasable
+315,Uzbek,SHY,Central Asia,
+316,Ferghana,KOK,Central Asia,Releasable
+317,Bukhara,BUK,Central Asia,Formable
+318,Afghanistan,AFG,Persia,
+319,Khorasan,KHO,Persia,
+320,Persia,PER,Persia,Formable
+321,Qara Qoyunlu,QAR,Persia,
+322,Timurids,TIM,Persia,Formable (exists in 1444)
+323,Transoxiana,TRS,Persia,
+324,Gilan,KRY,Persia,
+325,Circassia,CIR,Persia,
+326,Gazikumukh,GAZ,Persia,
+327,Imereti,IME,Caucasia,
+328,Mazandaran,TAB,Persia,
+329,Hormuz,ORM,Persia,
+330,Luristan,LRI,Persia,
+331,Sistan,SIS,Persia,
+332,Biapas,BPI,Persia,
+333,Fars,FRS,Persia,
+334,Kerman,KRM,Persia,Releasable
+335,Yazd,YZD,Persia,Releasable
+336,Isfahan,ISF,Persia,Releasable
+337,Tabriz,TBR,Persia,Releasable
+338,Basra,BSR,Persia,Releasable
+339,Maregheh,MGR,Persia,Releasable
+340,Ajam,QOM,Persia,
+341,Aztec,AZT,Central America,
+342,Cherokee,CHE,North America,
+343,Chimu,CHM,South America,
+344,Creek,CRE,North America,Formable via federation
+345,Huron,HUR,North America,Formable via federation
+346,Inca,INC,South America,Formable
+347,Iroquois,IRO,North America,Formable via federation
+348,Maya,MAY,Central America,Formable
+349,Shawnee,SHA,North America,Formable via federation
+350,Zapotec,ZAP,Central America,
+351,Ashanti,ASH,West Africa,Releasable / Appears by event
+352,Benin,BEN,West Africa,
+353,Ethiopia,ETH,East Africa,Formable (exists in 1444)
+354,Kongo,KON,Kongo,Formable (exists in 1444)
+355,Mali,MAL,West Africa,Formable (exists in 1444)
+356,Funj,NUB,West Africa,Revolter (more likely by an event)
+357,Songhai,SON,West Africa,
+358,Kilwa,ZAN,East Africa,
+359,Mutapa,ZIM,East Africa,
+360,Adal,ADA,East Africa,
+361,Hausa,HAU,West Africa,Formable / Releasable
+362,Kanem Bornu,KBO,West Africa,
+363,Loango,LOA,Kongo,
+364,Oyo,OYO,West Africa,
+365,Segu,SOF,West Africa,Releasable
+366,Sokoto,SOK,West Africa,Formable
+367,Jolof,JOL,West Africa,
+368,Sofala,SFA,East Africa,
+369,Mombasa,MBA,East Africa,
+370,Malindi,MLI,East Africa,
+371,Ajuuraan,AJU,East Africa,
+372,Mogadishu,MDI,East Africa,
+373,Ennarea,ENA,East Africa,
+374,Wagadugu,WGD,West Africa,
+375,Zandoma,ZND,West Africa,Releasable
+376,Fada N'gourma,GUR,West Africa,
+377,Tenkodogo,TEN,West Africa,Releasable
+378,Ogaadeen,OGD,East Africa,
+379,Zulu,ZUL,East Africa,Appears by event
+380,Somalia,SOM,East Africa,Formable
+381,Aksum,AKS,East Africa,Formable
+382,Zimbabwe,GZI,East Africa,Formable
+383,Nubia,NBI,East Africa,Formable
+384,Rozwi Empire,RZI,East Africa,Formable
+385,Kitara,KIT,Central Africa,Formable
+386,Wadai,WAD,West Africa,
+387,Aussa,AFA,East Africa,Releasable
+388,Alodia,ALO,East Africa,
+389,Darfur,DAR,East Africa,Releasable
+390,Geledi,GLE,East Africa,Releasable
+391,Harar,HAR,East Africa,Releasable
+392,Hobyo,HOB,East Africa,Releasable
+393,Kaffa,KAF,East Africa,
+394,Medri Bahri,MED,East Africa,
+395,Majeerteen,MJE,East Africa,Releasable
+396,Marehan,MRE,East Africa,
+397,Pate,PTE,East Africa,
+398,Warsangali,WAR,East Africa,
+399,Semien,BTI,East Africa,Releasable
+400,Beja,BEJ,East Africa,
+401,Jimma,JIM,East Africa,Revolter
+402,Welayta,WLY,East Africa,
+403,Damot,DAM,East Africa,
+404,Hadiya,HDY,East Africa,
+405,Shewa,SOA,East Africa,Releasable
+406,Janjiro,JJI,East Africa,
+407,Dongola,ABB,East Africa,
+408,Tyo,TYO,Kongo,
+409,Soyo,SYO,Kongo,Releasable
+410,Kasanje,KSJ,Kongo,
+411,Luba,LUB,Central Africa,
+412,Lunda,LND,Kongo,
+413,Chokwe,CKW,Central Africa,
+414,Kikondja,KIK,Central Africa,
+415,Kazembe,KZB,Central Africa,
+416,Yaka,YAK,Kongo,
+417,Kalundwe,KLD,Central Africa,
+418,Kuba,KUB,Central Africa,
+419,Rwanda,RWA,Central Africa,
+420,Burundi,BUU,Central Africa,
+421,Buganda,BUG,Central Africa,
+422,Nkore,NKO,Central Africa,
+423,Karagwe,KRW,Central Africa,
+424,Bunyoro,BNY,Central Africa,
+425,Busoga,BSG,Central Africa,
+426,Buha,UBH,Central Africa,
+427,Maravi,MRA,East Africa,
+428,Lundu,LDU,East Africa,
+429,Tumbuka,TBK,East Africa,
+430,Makua,MKU,East Africa,
+431,Butua,RZW,East Africa,
+432,Imerina,MIR,Madagascar,
+433,Sakalava,SKA,Madagascar,
+434,Betsimisaraka,BTS,Madagascar,
+435,Mahafaly,MFY,Madagascar,
+436,Antemoro,ANT,Madagascar,
+437,Annam,ANN,Indochina,Releasable / Appears by event
+438,Arakan,ARK,Indochina,
+439,Aceh,ATJ,East Indies,
+440,Ayutthaya,AYU,Indochina,
+441,Bali,BLI,East Indies,
+442,Banten,BAN,East Indies,Revolter / Formable via mission event
+443,Brunei,BEI,East Indies,
+444,Champa,CHA,East Indies,
+445,Chagatai,CHG,Mongolia,
+446,Champasak,CHK,Indochina,Releasable / Appears by event
+447,Dai Viet,DAI,Indochina,Formable (exists in 1444)
+448,Japan,JAP,Far East,Formable
+449,Amago,AMA,Far East,
+450,Asakura,ASA,Far East,Releasable
+451,Chosokabe,CSK,Far East,Releasable
+452,Date,DTE,Far East,
+453,Hojo,HJO,Far East,Revolter (more likely by an event)
+454,Hosokawa,HSK,Far East,
+455,Hatakeyama,HTK,Far East,
+456,Ikeda,IKE,Far East,Revolter
+457,Imagawa,IMG,Far East,
+458,Maeda,MAE,Far East,Revolter
+459,Mori,MRI,Far East,Releasable
+460,Oda,ODA,Far East,
+461,Otomo,OTM,Far East,
+462,Ouchi,OUC,Far East,
+463,Shiba,SBA,Far East,
+464,Shimazu,SMZ,Far East,
+465,Takeda,TKD,Far East,
+466,Tokugawa,TKG,Far East,
+467,Uesugi,UES,Far East,
+468,Yamana,YMN,Far East,
+469,Nanbu,RFR,Far East,
+470,Ashikaga,ASK,Far East,
+471,Kitabatake,KTB,Far East,
+472,Ainu,ANU,Far East,
+473,Akamatsu,AKM,Far East,Releasable
+474,Ando,AKT,Far East,
+475,Chiba,CBA,Far East,
+476,Isshiki,ISK,Far East,
+477,Ito,ITO,Far East,
+478,Kikuchi,KKC,Far East,
+479,Kono,KNO,Far East,
+480,Ogasawara,OGS,Far East,
+481,Shoni,SHN,Far East,
+482,Satake,STK,Far East,
+483,Toki,TKI,Far East,
+484,Utsunomiya,UTN,Far East,
+485,Tsutsui,TTI,Far East,
+486,Mongolia,KHA,Mongolia,
+487,Khmer,KHM,Indochina,
+488,Korea,KOR,Far East,
+489,Lan Na,LNA,Indochina,
+490,Luang Prabang,LUA,Indochina,Releasable / Appears by event
+491,Lan Xang,LXA,Indochina,Formable (exists in 1444)
+492,Majapahit,MAJ,East Indies,
+493,Manchu,MCH,Manchuria,Formable
+494,Makassar,MKS,East Indies,
+495,Malacca,MLC,East Indies,
+496,Ming,MNG,China,
+497,Mataram,MTR,East Indies,Revolter
+498,Oirat,OIR,Mongolia,
+499,Pattani,PAT,East Indies,
+500,Pegu,PEG,Indochina,
+501,Qing,QNG,Manchuria,Formable
+502,Ryukyu,RYU,Far East,
+503,Shan,SST,Indochina,Formable
+504,Sukhothai,SUK,Indochina,
+505,Sulu,SUL,East Indies,
+506,Taungu,TAU,Indochina,
+507,Tibet,TIB,Tibet,Formable
+508,Tonkin,TOK,Indochina,Releasable / Appears by event
+509,Vientiane,VIE,Indochina,Releasable / Appears by event
+510,Zhou,CZH,China,Revolter / Appears by mission
+511,Shun,CSH,China,Releasable / Appears by event
+512,Xi,CXI,China,Releasable
+513,Yuan,YUA,Mongolia,Formable
+514,Tungning,FRM,China,Appears by event
+515,Ilkhanate,ILK,Persia,Formable
+516,Kalmyk,KLM,Pontic Steppe,Appears by event
+517,Mongol Empire,MGE,Mongolia,Formable
+518,So,SOO,Far East,
+519,Nivkh,NVK,Manchuria,
+520,Solon,SOL,Manchuria,
+521,Nanai,EJZ,Manchuria,
+522,Orochoni,NHX,Manchuria,
+523,Xibe,MYR,Manchuria,
+524,Haixi,MHX,Manchuria,
+525,Jianzhou,MJZ,Manchuria,
+526,Korchin,KRC,Mongolia,
+527,Khalkha,KLK,Mongolia,Revolter / Formable via mission event
+528,Kara Del,HMI,Mongolia,
+529,Dzungar,ZUN,Mongolia,Revolter / Formable via mission event
+530,Yarkand,KAS,Central Asia,
+531,Chahar,CHH,Mongolia,Releasable
+532,Khoshuud,KSD,Tibet,Revolter / Formable via mission event
+533,Sarig Yogir,SYG,Tibet,
+534,Tsang,UTS,Tibet,
+535,Kham,KAM,Tibet,
+536,Guge,GUG,Tibet,
+537,U,PHA,Tibet,
+538,Dali,CDL,China,Releasable / Appears by event
+539,Yi,CYI,China,Releasable
+540,Miao,CMI,China,Releasable
+541,Min,MIN,China,Releasable
+542,Yue,YUE,China,Releasable / Appears by event
+543,Shu,SHU,China,Releasable
+544,Ning,NNG,China,Releasable
+545,Chu,CHC,China,Releasable
+546,Tang,TNG,China,Releasable
+547,Wu,WUU,China,Releasable / Appears by event
+548,Qi,QIC,China,Releasable
+549,Yan,YAN,China,Releasable
+550,Jin,JIN,China,Releasable
+551,Liang,LNG,China,Releasable
+552,Qin,QIN,China,Releasable
+553,Huai,HUA,China,Releasable
+554,Changsheng,CGS,Indochina,Releasable
+555,Baluchistan,BAL,Persia,
+556,Bengal,BNG,India,
+557,Bijapur,BIJ,India,Releasable
+558,Bahmanis,BAH,India,
+559,Delhi,DLH,India,Formable (exists in 1444)
+560,Golkonda,GOC,India,Releasable
+561,Deccan,DEC,India,Formable
+562,Marathas,MAR,India,Formable
+563,Mughals,MUG,India,Formable
+564,Mysore,MYS,India,
+565,Vijayanagar,VIJ,India,
+566,Ahmednagar,AHM,India,Releasable
+567,Assam,ASS,India,
+568,Gujarat,GUJ,India,
+569,Jaunpur,JNP,India,
+570,Madurai,MAD,India,
+571,Malwa,MLW,India,
+572,Marwar,MAW,India,Releasable
+573,Mewar,MER,India,
+574,Multan,MUL,India,
+575,Nagpur,NAG,India,Formable
+576,Nepal,NPL,India,Formable
+577,Orissa,ORI,India,Formable (exists in 1444)
+578,Punjab,PUN,India,Formable / Releasable
+579,Sindh,SND,India,
+580,Berar,BRR,India,Releasable
+581,Jangladesh,JAN,India,
+582,Carnatic,KRK,India,Releasable
+583,Garha,GDW,India,
+584,Garjat,GRJ,India,
+585,Gwalior,GWA,India,
+586,Dhundhar,DHU,India,
+587,Kashmir,KSH,India,
+588,Keladi,KLN,India,Releasable
+589,Khandesh,KHD,India,
+590,Oudh,ODH,India,Releasable
+591,Venad,VND,India,
+592,Calicut,MAB,India,
+593,Mewat,MEW,India,
+594,Baroda,BDA,India,Revolter
+595,Bastar,BST,India,
+596,Bhutan,BHU,Tibet,Releasable
+597,Bundelkhand,BND,India,
+598,Kotte,CEY,India,
+599,Jaisalmer,JSL,India,
+600,Kachar,KAC,Indochina,
+601,Koch,KMT,India,
+602,Kangra,KGR,India,
+603,Kutch,KAT,India,
+604,Kochin,KOC,India,
+605,Manipur,MLB,Indochina,
+606,Hadoti,HAD,India,
+607,Nagaur,NGA,India,
+608,Rohilkhand,RMP,India,Releasable
+609,Ladakh,LDK,India,
+610,Baghelkhand,BGL,India,
+611,Jaffna,JFN,India,
+612,Patiala,PTA,India,Releasable
+613,Garhwal,GHR,India,
+614,Chanda,CHD,India,
+615,Jharkhand,NGP,India,
+616,Habsan,JAJ,India,Revolter (more likely by an event)
+617,Tirhut,TRT,India,
+618,Rewa Kantha,CMP,India,
+619,Baglana,BGA,India,
+620,Tripura,TPR,Indochina,
+621,Sadiya,SDY,India,
+622,Bharat,BHA,India,Formable
+623,Andhra,YOR,India,
+624,Maldives,DGL,India,
+625,Bishnupur,MBL,India,
+626,Sikkim,SKK,India,Releasable
+627,Idar,IDR,India,
+628,Jhalavad,JLV,India,
+629,Palitana,PTL,India,
+630,Navanagar,NVR,India,Releasable
+631,Rajkot,RJK,India,Releasable
+632,Junagarh,JGD,India,
+633,Porbandar,PRB,India,
+634,Kalinjar,PAN,India,
+635,Kalpi,KLP,India,
+636,Sambalpur,SBP,India,Releasable
+637,Patna,PTT,India,
+638,Ratanpur,RTT,India,
+639,Kalahandi,KLH,India,
+640,Keonhjar,KJH,India,
+641,Parlakhimidi,PRD,India,
+642,Jeypore,JPR,India,
+643,Surguja,SRG,India,Releasable
+644,Kandy,KND,India,
+645,Telingana,TLG,India,
+646,Kolathunad,KLT,India,
+647,Dang,DNG,India,
+648,Doti,DTI,India,
+649,Gorkha,GRK,India,
+650,Jumla,JML,India,
+651,Limbuwan,LWA,India,
+652,Makwanpur,MKP,India,Releasable
+653,Sirmur,SRM,India,
+654,Kathmandu,KTU,India,
+655,Kumaon,KMN,India,
+656,Gingee,GNG,India,Releasable
+657,Tanjore,TNJ,India,Releasable
+658,Sirhind,SRH,India,
+659,Rajputana,RJP,India,Formable
+660,Bar,BAR,France,Releasable
+661,Lübeck,HSA,Germany,
+662,Smolensk,SMO,Eastern Europe,Releasable
+663,Nizhny Novgorod,NZH,Russia,Releasable
+664,Jerusalem,KOJ,Middle East,Formable
+665,Malaya,MSA,East Indies,Formable
+666,Hindustan,HIN,India,Formable
+667,Abenaki,ABE,North America,
+668,Apache,APA,North America,
+669,Assiniboine,ASI,North America,
+670,Blackfoot,BLA,North America,
+671,Caddo,CAD,North America,
+672,Chickasaw,CHI,North America,
+673,Choctaw,CHO,North America,
+674,Cheyenne,CHY,North America,
+675,Comanche,COM,North America,
+676,Fox,FOX,North America,
+677,Illiniwek,ILL,North America,Formable via federation
+678,Lenape,LEN,North America,
+679,Mahican,MAH,North America,
+680,Mikmaq,MIK,North America,
+681,Miami,MMI,North America,
+682,Navajo,NAH,North America,
+683,Ojibwe,OJI,North America,
+684,Osage,OSA,North America,
+685,Ottawa,OTT,North America,
+686,Pawnee,PAW,North America,
+687,Pequot,PEQ,North America,
+688,Pima,PIM,North America,
+689,Potawatomi,POT,North America,Formable via federation (exists in 1444)
+690,Powhatan,POW,North America,
+691,Pueblo,PUE,North America,Revolter
+692,Shoshone,SHO,North America,
+693,Sioux,SIO,North America,Formable via federation (exists in 1444)
+694,Susquehannock,SUS,North America,
+695,Cree,WCR,North America,
+696,Air,AIR,West Africa,
+697,Bonoman,BON,West Africa,
+698,Dahomey,DAH,West Africa,
+699,Dagbon,DGB,West Africa,
+700,Fulo,FUL,West Africa,Revolter (more likely by an event)
+701,Jenné,JNN,West Africa,
+702,Kano,KAN,West Africa,
+703,Kaabu,KBU,West Africa,Releasable
+704,Kong,KNG,West Africa,
+705,Katsina,KTS,West Africa,
+706,Mossi,MSI,West Africa,Formable
+707,Nupe,NUP,West Africa,
+708,Timbuktu,TMB,West Africa,
+709,Yao,YAO,West Africa,
+710,Yatenga,YAT,West Africa,
+711,Macina,ZAF,West Africa,Formable
+712,Zazzau,ZZZ,West Africa,
+713,Ndongo,NDO,Kongo,
+714,Ava,AVA,Indochina,
+715,Hsenwi,HSE,Indochina,
+716,Johor,JOH,East Indies,Releasable
+717,Kedah,KED,East Indies,
+718,Ligor,LIG,East Indies,
+719,Muang Phuan,MPH,Indochina,
+720,Mong Yang,MYA,Indochina,
+721,Perak,PRK,East Indies,Releasable
+722,Mong Mao,MMA,Indochina,
+723,Mong Kawng,MKA,Indochina,
+724,Mong Pai,MPA,Indochina,
+725,Mong Nai,MNI,Indochina,
+726,Kale,KAL,Indochina,
+727,Hsipaw,HSI,Indochina,
+728,Prome,BPR,Indochina,
+729,Chukchi,CHU,Siberia,
+730,Khodynt,HOD,Siberia,
+731,Chavchuveny,CHV,Siberia,
+732,Kamchadals,KMC,Siberia,
+733,Buryatia,BRT,Siberia,Revolter
+734,Arapaho,ARP,North America,
+735,Colima,CLM,Central America,
+736,Chinook,CNK,North America,
+737,Cocomes,COC,Central America,
+738,Haida,HDA,North America,
+739,Itza,ITZ,Central America,
+740,Kiche,KIC,Central America,
+741,Kiowa,KIO,North America,
+742,Mixtec,MIX,Central America,
+743,Salish,SAL,North America,
+744,Tarascan,TAR,Central America,
+745,Tlapanec,TLA,Central America,
+746,Tlaxcala,TLX,Central America,
+747,Totonac,TOT,Central America,
+748,Wichita,WIC,North America,
+749,Xiu,XIU,Central America,
+750,Blambangan,BLM,East Indies,
+751,Buton,BTN,East Indies,
+752,Cirebon,CRB,East Indies,Revolter / Formable via mission event
+753,Demak,DMK,East Indies,Releasable
+754,Pagarruyung,PGR,East Indies,
+755,Palembang,PLB,East Indies,
+756,Pasai,PSA,East Indies,
+757,Siak,SAK,East Indies,
+758,Sunda,SUN,East Indies,
+759,Kutai,KUT,East Indies,
+760,Banjar,BNJ,East Indies,
+761,Lanfang,LFA,East Indies,Formable
+762,Lanao,LNO,East Indies,Releasable
+763,Luwu,LUW,East Indies,
+764,Maguindanao,MGD,East Indies,
+765,Ternate,TER,East Indies,
+766,Tidore,TID,East Indies,
+767,Madyas,MAS,East Indies,
+768,Pangasinan,PGS,East Indies,
+769,Tondo,TDO,East Indies,
+770,Maynila,MNA,East Indies,
+771,Cebu,CEB,East Indies,
+772,Butuan,BTU,East Indies,
+773,Cusco,CSU,South America,
+774,Calchaqui,CCQ,South America,
+775,Mapuche,MPC,South America,
+776,Muisca,MCA,South America,
+777,Quito,QTO,South America,
+778,Cajamarca,CJA,South America,
+779,Huyla,HJA,South America,
+780,Potiguara,PTG,South America,
+781,Tupiniquim,TPQ,South America,
+782,Tupinamba,TPA,South America,
+783,Tapuia,TUA,South America,
+784,Guarani,GUA,South America,
+785,Charrua,CUA,South America,
+786,Wanka,WKA,South America,
+787,Chachapoya,CYA,South America,
+788,Colla,CLA,South America,
+789,Charca,CRA,South America,
+790,Pacajes,PCJ,South America,
+791,Arawak,ARW,South America,
+792,Carib,CAB,South America,
+793,Ichma,ICM,South America,
+794,Matlatzinca,MAT,Central America,
+795,Coixtlahuaca,COI,Central America,
+796,Teotitlan,TEO,Central America,
+797,Xalisco,XAL,Central America,
+798,Guamar,GAM,Central America,
+799,Huastec,HST,Central America,
+800,Chichimeca,CCM,Central America,
+801,Otomi,OTO,Central America,
+802,Yokotan,YOK,Central America,
+803,Tzotzil,LAC,Central America,
+804,Kaqchikel,KAQ,Central America,
+805,Chactemal,CTM,Central America,
+806,Zia,KER,North America,
+807,Zuni,ZNI,Central America,
+808,Mescalero,MSC,North America,
+809,Lipan,LIP,North America,
+810,Chorti,CHT,Central America,
+811,Miskito,MIS,Central America,
+812,Tairona,TAI,South America,
+813,Can Pech,CNP,Central America,
+814,Tonala,TON,Central America,
+815,Yaqui,YAQ,North America,
+816,Yokuts,YKT,North America,
+817,New Providence,NSS,Caribbeans,Appears by event
+818,Port Royal,PRY,Caribbeans,Appears by event
+819,Tortuga,TOR,Caribbeans,Appears by event
+820,Libertatia,LIB,South Africa,Appears by event
+821,Munich,UBV,Germany,
+822,Landshut,LBV,Germany,
+823,Ingolstadt,ING,Germany,
+824,Passau,PSS,Germany,
+825,Bregenz,MBZ,Germany,
+826,Konstanz,KNZ,Germany,
+827,Rothenburg,ROT,Germany,
+828,Bayreuth,BYT,Germany,
+829,Regensburg,REG,Germany,
+830,Geneva,GNV,Germany,
+831,Three Leagues,TTL,Germany,
+832,Opole,OPL,Eastern Europe,
+833,Glogow,GLG,Eastern Europe,
+834,Bologna,BLG,Italy,
+835,Padua,PDV,Italy,Releasable
+836,Saluzzo,SZO,Italy,
+837,Spoleto,SPL,Italy,Releasable
+838,Wolgast,WOL,Germany,
+839,Stettin,STE,Germany,
+840,Goslar,GOS,Germany,
+841,Lusatia,SOR,Germany,Releasable
+842,Rügen,RUG,Germany,Releasable
+843,Cilli,CLI,Germany,
+844,Herzegovina,HRZ,Balkans,
+845,Trent,TNT,Germany,
+846,Berg,BRG,Germany,
+847,Mulhouse,MLH,Germany,
+848,Bamberg,BAM,Germany,
+849,Ruppin,RUP,Germany,Releasable
+850,Lippe,LPP,Germany,Releasable
+851,Paderborn,PAD,Germany,Releasable
+852,Calenberg,CLB,Germany,Releasable
+853,Donauwörth,DWT,Germany,Releasable
+854,Osnabrück,OSN,Germany,Releasable
+855,Verona,VRN,Italy,Releasable
+856,Coburg,COB,Germany,Releasable
+857,Lotharingia,LOT,Germany,Formable
+858,Perugia,PGA,Italy,
+859,Two Sicilies,TTS,Italy,Formable
+860,Franconia,FKN,Germany,Formable
+861,Swabia,SWA,Germany,Formable
+862,Bone,BNE,East Indies,
+863,Berau,BEU,East Indies,
+864,Sambas,SMB,East Indies,
+865,Barus,BRS,East Indies,
+866,Deli,DLI,East Indies,
+867,Jambi,JMB,East Indies,
+868,Pahang,PAH,East Indies,
+869,Kelantan,KEL,East Indies,
+870,Indrapura,IND,Indochina,
+871,Jarai,JAR,Indochina,
+872,Rhade,RHA,Indochina,
+873,Koho,KOH,Indochina,
+874,Siam,SIA,Indochina,Formable
+875,Tiwi,TIW,Australia,
+876,Larrakia,LAR,Australia,
+877,Yolngu,YOL,Australia,
+878,Yanuwa,YNU,Australia,
+879,Awngthim,AWN,Australia,
+880,Kamilaroi,GMI,Australia,
+881,Mianjin,MIA,Australia,
+882,Eora,EOR,Australia,
+883,Kulin,KUL,Australia,Revolter
+884,Kaurna,KAU,Australia,
+885,Palawa,PLW,Australia,
+886,Wurundjeri,WRU,Australia,
+887,Nyoongah,NOO,Australia,
+888,Malgana,MLG,Australia,
+889,Aotearoa,AOT,Oceania,Formable
+890,Ngati Awa,MAA,Oceania,
+891,Tainui,TAN,Oceania,
+892,Ngati Kahungunu,TAK,Oceania,
+893,Ngati Toa,TNK,Oceania,
+894,Ngati Ranginui,TEA,Oceania,
+895,Ngapuhi,TTT,Oceania,
+896,Waitaha,WAI,Oceania,
+897,Hawai'i,UHW,Oceania,Formable
+898,Hawai'i,HAW,Oceania,
+899,Maui,MAU,Oceania,
+900,O'ahu,OAH,Oceania,
+901,Kaua'i,KAA,Oceania,
+902,Tonga,TOG,Oceania,
+903,Samoa,SAM,Oceania,
+904,Viti,VIT,Oceania,Formable
+905,Viti Levu,VIL,Oceania,
+906,Vanua Levu,VNL,Oceania,
+907,Lau,LAI,Oceania,
+908,Altamaha,ALT,North America,
+909,Ichisi,ICH,North America,
+910,Cofitachequi,COF,North America,
+911,Joara,JOA,North America,
+912,Etowah,ETO,North America,
+913,Satapo,SAT,North America,
+914,Chiaha,CIA,North America,
+915,Coosa,COO,North America,
+916,Abihka,ABI,North America,
+917,Coweta,COW,North America,
+918,Natchez,NTZ,North America,
+919,Casqui,CAQ,North America,
+920,Pacaha,PCH,North America,
+921,Quizquiz,QUI,North America,
+922,Chisca,CCA,North America,
+923,Atahachi,ATA,North America,
+924,Kasihta,KSI,North America,
+925,Oneota,OEO,North America,
+926,Anilco,ANL,North America,
+927,Natchitoches,NTC,North America,
+928,Hasinai,HNI,North America,
+929,Mohawk,MOH,North America,
+930,Oneida,ONE,North America,
+931,Onondaga,ONO,North America,
+932,Cayuga,CAY,North America,
+933,Seneca,SEN,North America,
+934,Tahontaenrat,TAH,North America,
+935,Attignawantan,ATT,North America,
+936,Attigneenongnahac,AGG,North America,
+937,Attiwandaron,ATW,North America,
+938,Arendaronon,ARN,North America,
+939,Tionontate,TIO,North America,
+940,Osheaga,OSH,North America,
+941,Stadacona,STA,North America,
+942,Erie,ERI,North America,
+943,Wenro,WEN,North America,
+944,Tuscarora,TSC,North America,
+945,Ohkay Owingeh,OHK,North America,
+946,Isleta,ISL,North America,
+947,Acoma,ACO,North America,
+948,Cahokia,CAO,North America,
+949,Peoria,PEO,North America,
+950,Kaskaskia,KSK,North America,
+951,Penobscot,PEN,North America,
+952,Maliseet,MLS,North America,
+953,Nehiyaw,NEH,North America,
+954,Nakawe,NAK,North America,
+955,Hathawekela,HWK,North America,
+956,Chalaghawtha,CLG,North America,
+957,Kispoko,KSP,North America,
+958,Mississage,MSG,North America,
+959,Wichiyena,WCY,North America,
+960,Lakota,LAK,North America,
+961,Innu,INN,North America,
+962,Wampanoag,WAM,North America,
+963,Algonquin,AGQ,North America,
+964,Jan Mayen,JMN,–,Special country (can be spawned only with console)
+965,Roman Empire,ROM,–,Formable
+966,Synthetics,SYN,–,Special country (can be spawned only with console)
+967,Israel,ISR,Middle East,Formable

@@ -33,3 +33,5 @@ eu4_startup
 For those looking for an easy game, eu4 start up works similarily to eu4_provinces.
 Instead of running custom commands, eu4_startup will run and quickly spurt out a few commands to really get you going in eu4.
 Run the program and quickly tab back, holding down the enter key in the eu4 command interface as described above.
+
+##Finis##
